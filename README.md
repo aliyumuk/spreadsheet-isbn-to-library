@@ -9,6 +9,7 @@ You can reach the app in ..
 To create this project in your own enviroment:
 1. Go to your Google Spreadsheets page and create a blank sheet.
 2. Go to Extensions tab inside of your sheet and choose "Apps Script".
+3. Copy the codes inside 'code.gs' and paste into your Apps Script page.
 
 
 
