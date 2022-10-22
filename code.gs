@@ -228,7 +228,7 @@ function fillTheRange(command = 'manual') {
         books[row][IMAGE_COLUMN - 3] = image;
         books[row][LINK1_COLUMN - 3] =
           "https://libgen.is/search.php?req=" +
-          ISBN_COLUMN[row] +
+          ISBNValues[row] +
           "&open=0&res=25&view=simple&phrase=1&column=def";
       }
     }
